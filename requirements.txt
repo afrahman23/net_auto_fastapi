@@ -1,6 +1,7 @@
-nornir==3.0.0
-nornir-napalm==0.1.1
-nornir-utils==0.1.1
-pyaoscx==1.0.0
-fastapi==0.68.1
-uvicorn==0.15.0
+nornir==3.4.1
+nornir-utils==0.2.0
+nornir_napalm==0.5.0
+pyaoscx==2.6.0
+fastapi==0.115.5
+fastapi-cli==0.0.5
+uvicorn==0.32.1
