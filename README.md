@@ -7,7 +7,7 @@ Messing with network automation and FastAPI
 ## Environment
 
 - `python3 -m venv fastapienv`
-- `source venv/bin/activate`
+- `source fastapienv/bin/activate`
 - `git clone https://github.com/afrahman23/net_auto_fastapi.git`
 - `cd net_auto_fastapi/`
 - `pip install -r requirements.txt`
