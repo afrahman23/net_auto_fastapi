@@ -1,6 +1,6 @@
 # net_auto_fastapi
 
-This is for testing [Mikrotik](https://mikrotik.com) devices. Fork from JulioPDX [JulioPDX](https://github.com/JulioPDX). Thanks Julio.
+This is for testing [Mikrotik](https://mikrotik.com) devices. Fork from [JulioPDX](https://github.com/JulioPDX). Thanks Julio.
 
 Messing with network automation and FastAPI
 
